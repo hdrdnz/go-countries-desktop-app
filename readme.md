@@ -2,7 +2,7 @@
 # Countries Desktop App
 This is a desktop application that shows general information about countries.
 
-![](.\assets/main.png)
+![](./assets/main.png)
 
 It generally contains the following information about countries ;
   + Name     
