@@ -1,5 +1,5 @@
 
-#Countries Desktop App
+# Countries Desktop App
 This is a desktop application that shows general information about countries.
 
 ![](.\assets/main.png)
